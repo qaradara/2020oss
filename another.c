@@ -1,2 +1,2 @@
 another file from tutorial
-10 + 3 = 13 is mended.
+10 + 2 = 12 is mended.
